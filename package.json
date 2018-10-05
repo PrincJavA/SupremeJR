@@ -1,0 +1,17 @@
+{
+  "name": "supreme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "479441641644490780",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1"
+  }
+}
